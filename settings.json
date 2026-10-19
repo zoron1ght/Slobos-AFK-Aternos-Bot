@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "zoron1ght.aternos.me:64463"
+    "port": 64463,
     "version": "",
     "try-creative": false
   },
